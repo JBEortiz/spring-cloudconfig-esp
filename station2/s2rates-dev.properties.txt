@@ -1,1 +1,4 @@
-configuracion= "hola entorno dev rates2"
+rate= "1"
+tollstart= "06:00"
+tollstop= "23:00"
+lanecount= "0"
